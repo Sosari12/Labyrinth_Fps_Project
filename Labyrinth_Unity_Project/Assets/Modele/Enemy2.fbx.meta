@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 68bc07fe695953043a91bbaa495045f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm.000.L
+    100002: Arm.000.R
+    100004: Arm.001.L
+    100006: Arm.001.R
+    100008: Arm.002.L
+    100010: Arm.002.R
+    100012: Arm.003.L
+    100014: Arm.003.R
+    100016: Arm.004.L
+    100018: Arm.004.R
+    100020: Arm.005.L
+    100022: Arm.005.R
+    100024: Armature
+    100026: BigArm.000.L
+    100028: BigArm.000.R
+    100030: BigArm.001.L
+    100032: BigArm.001.R
+    100034: BigArm.002.L
+    100036: BigArm.002.R
+    100038: BigArm.003.L
+    100040: BigArm.003.R
+    100042: BigArm.004.L
+    100044: BigArm.004.R
+    100046: BigArm.005.L
+    100048: BigArm.005.R
+    100050: Body.000
+    100052: Body.001
+    100054: Body.002
+    100056: //RootNode
+    100058: eye.018
+    100060: kolec.001
+    100062: Root
+    100064: Torso.000
+    100066: Torso.001
+    100068: Torso.002
+    100070: Torso.003
+    100072: Torso.004
+    100074: zap body start.001
+    400000: Arm.000.L
+    400002: Arm.000.R
+    400004: Arm.001.L
+    400006: Arm.001.R
+    400008: Arm.002.L
+    400010: Arm.002.R
+    400012: Arm.003.L
+    400014: Arm.003.R
+    400016: Arm.004.L
+    400018: Arm.004.R
+    400020: Arm.005.L
+    400022: Arm.005.R
+    400024: Armature
+    400026: BigArm.000.L
+    400028: BigArm.000.R
+    400030: BigArm.001.L
+    400032: BigArm.001.R
+    400034: BigArm.002.L
+    400036: BigArm.002.R
+    400038: BigArm.003.L
+    400040: BigArm.003.R
+    400042: BigArm.004.L
+    400044: BigArm.004.R
+    400046: BigArm.005.L
+    400048: BigArm.005.R
+    400050: Body.000
+    400052: Body.001
+    400054: Body.002
+    400056: //RootNode
+    400058: eye.018
+    400060: kolec.001
+    400062: Root
+    400064: Torso.000
+    400066: Torso.001
+    400068: Torso.002
+    400070: Torso.003
+    400072: Torso.004
+    400074: zap body start.001
+    2100000: Body
+    2100002: Eye2
+    2100004: Eye
+    2300000: eye.018
+    3300000: eye.018
+    4300000: kolec.001
+    4300002: zap body start.001
+    4300004: eye.018
+    7400000: Enemy2_Attack1
+    7400002: Enemy2_Base
+    7400004: Enemy2_Walk_1
+    7400006: Enemy2_Walk_2
+    9500000: //RootNode
+    13700000: kolec.001
+    13700002: zap body start.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Enemy2_Attack1
+      takeName: Armature|Enemy2_Attack1
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enemy2_Base
+      takeName: Armature|Enemy2_Base
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enemy2_Walk_1
+      takeName: Armature|Enemy2_Walk_1
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enemy2_Walk_2
+      takeName: Armature|Enemy2_Walk_2
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

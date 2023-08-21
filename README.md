@@ -28,6 +28,8 @@ R - Reload
 
 Shift - Dash
 
+Esc - Exit to Menu
+
 ![](https://github.com/Sosari12/Labyrinth_Fps_Project/blob/main/Media/Labyrinth_gameplay2.gif)
 
 ## Gameplay

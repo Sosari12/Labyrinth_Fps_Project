@@ -9,6 +9,18 @@ Every enemy will call for help from other enemies and form a hordes that work to
 
 ![](https://github.com/Sosari12/Labyrinth_Fps_Project/blob/main/Media/Labyrinth_gameplay1.gif)
 
+## Gameplay
+
+The goal of the game is to find a key hidden in the labyrinth and find a way out.
+
+Player is equiped with an rotating minigun and mechanical fist to fight off enemies.
+
+Health and dash energy are displayed at the top of the screen.
+
+Game features dash ability that player can use in order to faster traverse the map and dodge incoming enemies.
+
+![](https://github.com/Sosari12/Labyrinth_Fps_Project/blob/main/Media/Labyrinth_gameplay2.gif)
+
 ## Controls
 Menu: 
 
@@ -29,19 +41,6 @@ R - Reload
 Shift - Dash
 
 Esc - Return to menu
-
-![](https://github.com/Sosari12/Labyrinth_Fps_Project/blob/main/Media/Labyrinth_gameplay2.gif)
-
-## Gameplay
-
-The goal of the game is to find a key hidden in the labyrinth and find a way out.
-
-Player is equiped with an rotating minigun and mechanical fist to fight off enemies.
-
-Health and dash energy are displayed at the top of the screen.
-
-Game features dash ability that player can use in order to faster traverse the map and dodge incoming enemies.
-
 
 ![](https://github.com/Sosari12/Labyrinth_Fps_Project/blob/main/Media/Labyrinth_gameplay3.gif)
 
